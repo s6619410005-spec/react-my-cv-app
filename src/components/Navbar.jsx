@@ -6,7 +6,7 @@ export default function NavBar({ pname, colorLinkNavbar }) {
         
         <div className="">
           <span className="text-[#00FF90] text-3xl font-bold">{'>_'}</span>
-          <span className="text-white text-3xl font-bold">MISTER Double T</span>
+          <span className="text-white text-3xl font-bold">Suthida05</span>
         </div>
 
         

@@ -25,7 +25,7 @@ export default function Contact() {
           <div className="w-[100px] h-[100px] flex items-center justify-center">
             <img src={iconEmail} alt="Email" className="w-full h-full object-contain" />
           </div>
-          <span className="text-gray-200 text-lg font-semibold">taschai200303@gmail.com</span>
+          <span className="text-gray-200 text-lg font-semibold">s6619410005</span>
         </div>
 
         {/* ที่อยู่ */}
@@ -41,7 +41,7 @@ export default function Contact() {
           <div className="w-[100px] h-[100px] flex items-center justify-center">
             <img src={iconLinkedin} alt="LinkedIn" className="w-full h-full object-contain" />
           </div>
-          <span className="text-gray-200 text-lg font-semibold">Mister Double T</span>
+          <span className="text-gray-200 text-lg font-semibold">Suthida05</span>
         </div>
       </div>
     </>
